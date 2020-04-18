@@ -1,6 +1,4 @@
 name = "webpage-randomizer"
 type = "javascript"
-account_id = ""
+account_id = "8cf553ed9cb3717fdad03624d0d9fa44"
 workers_dev = true
-route = ""
-zone_id = ""
