@@ -6,4 +6,4 @@ Using Cloudflare Workers, I deployed an application that randomly sends users to
 
 ## Link to the deployed website
 
-[Click here to open the deployed website](webpage-randomizer.rakshit-kumar.workers.dev/)
+[Click here to open the deployed website](https://webpage-randomizer.rakshit-kumar.workers.dev/)
